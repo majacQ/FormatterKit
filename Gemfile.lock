@@ -61,7 +61,7 @@ GEM
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     racc (1.5.2)
-    rake (12.3.2)
+    rake (12.3.3)
     rouge (2.0.7)
     ruby-macho (1.4.0)
     slather (2.4.7)
